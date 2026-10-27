@@ -1,0 +1,398 @@
+query,category
+I want to switch to a different plan.,Subscription
+I need to change my password immediately.,Account
+I was charged after cancelling my subscription.,Subscription
+I accidentally selected the wrong item.,Cancellation
+I cannot upload my documents.,Technical
+I have not received the refund in my bank account.,Refund
+I received only part of my refund.,Refund
+I need to update my subscription.,Subscription
+My verification code expired.,Account
+I need help recovering my password.,Account
+How can I change my subscription plan?,Subscription
+I cannot reset my password.,Account
+My parcel is delayed because of the courier.,Delivery
+The returned product was received but my refund is missing.,Refund
+I need to correct my order details.,Order
+My premium features are not working.,Subscription
+My subscription was charged incorrectly.,Subscription
+Why is my refund taking so long?,Refund
+Some features are not working.,Technical
+The amount was deducted but the order disappeared.,Payment
+Please help me locate my shipment.,Delivery
+I want to know when my refund will be processed.,Refund
+The product page is not opening.,Technical
+The delivery person did not arrive.,Delivery
+The website is extremely slow today.,Technical
+The notification system is not working.,Technical
+I don't want my order anymore.,Cancellation
+The money was deducted but my order was not confirmed.,Payment
+I am unable to update the app.,Technical
+Payment is not processing on the checkout page.,Payment
+I want to cancel the item immediately.,Cancellation
+I cannot log into my account.,Account
+I am unable to upload a file.,Technical
+My delivery is delayed.,Delivery
+My UPI payment is showing pending.,Payment
+Please cancel my order request.,Cancellation
+I haven't received my refund confirmation.,Refund
+My order confirmation email never arrived.,Order
+My parcel is taking too long to arrive.,Delivery
+I am still waiting for my delivery.,Delivery
+The application keeps freezing.,Technical
+The website stopped working suddenly.,Technical
+The transaction has been pending since yesterday.,Payment
+I want to know where my parcel is.,Delivery
+My plan has not upgraded yet.,Subscription
+How can I edit my profile?,Account
+My shipment has been in transit for a week.,Delivery
+The website keeps refreshing.,Technical
+The shipment has been stuck for days.,Delivery
+My order was supposed to arrive today.,Delivery
+My parcel was supposed to arrive yesterday.,Delivery
+Can I cancel my order before it ships?,Cancellation
+The delivery date has passed.,Delivery
+I received an incomplete order.,Order
+My return was completed but I am still waiting for the refund.,Refund
+I want to cancel my order.,Cancellation
+My order has not been delivered.,Delivery
+The app is stuck and cannot be closed.,Technical
+My order contains the wrong quantity.,Order
+The app stopped working after the update.,Technical
+The payment page crashed before completion.,Payment
+I am unable to sign into the website.,Account
+Please stop processing my order.,Cancellation
+I received a smaller refund than expected.,Refund
+Why was my payment reversed?,Payment
+The order summary is incorrect.,Order
+I entered the wrong password too many times.,Account
+I need to recover my account.,Account
+I received the wrong size.,Order
+My refund request is not showing.,Refund
+My package has fewer items than ordered.,Order
+I paid through UPI but the order is still unpaid.,Payment
+The delivery status is incorrect.,Delivery
+Can I pause my subscription?,Subscription
+The website is unavailable.,Technical
+I want to cancel the delivery.,Cancellation
+Where can I track my shipment?,Delivery
+I cannot log in after resetting my password.,Account
+The courier cannot find my address.,Delivery
+I cannot access premium content.,Subscription
+I cannot access the cart.,Technical
+How do I manage automatic renewal?,Subscription
+Why is my order still in transit?,Delivery
+How do I get my money back?,Refund
+Can you check my shipment status?,Delivery
+The refund process is taking too long.,Refund
+My refund has not arrived yet.,Refund
+My bank declined the transaction.,Payment
+I received the wrong color.,Order
+The payment screen keeps showing an error.,Payment
+My login credentials are not working.,Account
+Why did I not get my full refund?,Refund
+The application crashes during checkout.,Technical
+The delivery attempt failed but nobody came.,Delivery
+Can you check my refund status?,Refund
+I received a damaged product.,Order
+The login page is displaying an error.,Technical
+I need my money back for a cancelled order.,Refund
+The application freezes when I open it.,Technical
+I changed my mind about the purchase.,Cancellation
+Please stop my order from shipping.,Cancellation
+I returned my item but have not received the money.,Refund
+I was charged but the payment status says failed.,Payment
+The application is very slow.,Technical
+Can you check my order?,Order
+Is there a cancellation option?,Cancellation
+The app is showing a technical problem.,Technical
+I want to downgrade my plan.,Subscription
+I don't want the product anymore.,Cancellation
+How do I upgrade my subscription?,Subscription
+The cart page is not loading.,Technical
+Can you provide an update on my courier?,Delivery
+My bank account was debited but the transaction failed.,Payment
+Why was I charged a subscription fee?,Subscription
+I want to modify an existing order.,Order
+The courier says delivered but I did not receive it.,Delivery
+I did not receive an order number.,Order
+The transaction shows pending for a long time.,Payment
+I need help cancelling my subscription.,Subscription
+I cannot use my premium benefits.,Subscription
+I cannot verify my account.,Account
+I am getting an error message.,Technical
+My account information is outdated.,Account
+Where is my refund?,Refund
+The checkout page keeps rejecting my card.,Payment
+I want to stop the order from being delivered.,Cancellation
+I need to renew my premium plan.,Subscription
+I keep getting a technical error.,Technical
+I cannot access my account from my phone.,Account
+Please process my refund.,Refund
+I want to cancel before it is dispatched.,Cancellation
+The mobile app is not responding.,Technical
+Can I edit my order before dispatch?,Order
+Can I change my billing cycle?,Subscription
+Can you cancel my recent order?,Cancellation
+I was charged for my subscription.,Subscription
+Why is my refund delayed after the return?,Refund
+Please help me cancel my purchase.,Cancellation
+Why has my refund not been processed?,Refund
+I cannot access my profile.,Account
+My returned item is eligible for a refund.,Refund
+Can I use another payment method?,Payment
+My subscription payment is pending.,Subscription
+My order was confirmed but is not visible.,Order
+I am unable to sign in.,Account
+The order confirmation has incorrect information.,Order
+My order is out for delivery but hasn't arrived.,Delivery
+My subscription is not active.,Subscription
+I want a refund for my order.,Refund
+Can I modify my order?,Order
+My card was charged but the purchase failed.,Payment
+How do I change my password?,Account
+The refund status is still pending.,Refund
+The courier has not contacted me.,Delivery
+My order details are incorrect.,Order
+Why can't I sign in?,Account
+I am having trouble accessing my account.,Account
+I want to know my order status.,Order
+Can I cancel part of my order?,Cancellation
+The app keeps crashing.,Technical
+My subscription renewed even though I did not want it.,Subscription
+How do I reactivate my subscription?,Subscription
+My package is delayed by several days.,Delivery
+Why was my account locked?,Account
+The product in my package is incorrect.,Order
+My package is missing during transit.,Delivery
+My payment was declined even though I have enough balance.,Payment
+The app gets stuck after opening.,Technical
+The refund amount has not been credited.,Refund
+I want to stop my recurring payment.,Subscription
+How do I stop an order?,Cancellation
+My transaction was unsuccessful.,Payment
+I need to cancel an order immediately.,Cancellation
+I did not receive my complete order.,Order
+Can you tell me the expected refund date?,Refund
+The order was placed accidentally.,Cancellation
+The sign-in button is not working.,Account
+Please cancel this purchase.,Cancellation
+I need to cancel my purchase before delivery.,Cancellation
+The estimated delivery date keeps changing.,Delivery
+When does my subscription expire?,Subscription
+I don't need this item anymore.,Cancellation
+My order number is not recognized.,Order
+My money was deducted during checkout.,Payment
+My account has been temporarily locked.,Account
+I cannot remember my login email.,Account
+Can I cancel my order after payment?,Cancellation
+The app is malfunctioning.,Technical
+My order is incomplete.,Order
+I cancelled my order but the refund has not come.,Refund
+My account is locked.,Account
+I cannot access my subscription benefits.,Subscription
+I was told the refund was completed.,Refund
+I want to know what I ordered.,Order
+I want to cancel my subscription.,Subscription
+I need help with a missing item.,Order
+Can I update my order before shipment?,Order
+The item delivered does not match my order.,Order
+The tracking status has not changed.,Delivery
+I need to cancel an order before dispatch.,Cancellation
+I cannot view product details.,Technical
+Please cancel my order.,Cancellation
+I need an update on my delivery.,Delivery
+My debit card is not being accepted.,Payment
+My subscription payment failed during renewal.,Subscription
+The password reset link is not working.,Account
+The refund has been pending for several days.,Refund
+I cannot open the notifications.,Technical
+I ordered the wrong size and want to cancel.,Cancellation
+Please help me track my refund.,Refund
+I want to withdraw my order.,Cancellation
+I want to change my billing plan.,Subscription
+I cannot pay for my order using UPI.,Payment
+The search feature is not working.,Technical
+I cannot complete account verification.,Account
+I need a refund for a damaged item.,Refund
+My card payment was declined.,Payment
+I was charged for an order I never received confirmation for.,Payment
+My profile will not save changes.,Account
+The app has become extremely slow.,Technical
+My credit card payment did not go through.,Payment
+Why is my shipment not moving?,Delivery
+I need to update my order information.,Order
+The app crashes whenever I try to pay.,Technical
+The app is stuck on the loading screen.,Technical
+The website crashes when I checkout.,Technical
+My package is delayed due to logistics.,Delivery
+I received a different item than I ordered.,Order
+Why did my online payment fail?,Payment
+The item I ordered is not in the package.,Order
+My delivery is taking longer than promised.,Delivery
+How can I request a refund?,Refund
+My payment failed while placing the order.,Payment
+Please tell me if cancellation is possible.,Cancellation
+The website is not loading.,Technical
+I ordered the wrong size.,Order
+The payment was cancelled automatically.,Payment
+The order was made by mistake.,Cancellation
+My delivery status has not changed since dispatch.,Delivery
+I was charged more than once for the same order.,Payment
+Where is my order?,Delivery
+I was promised a refund but nothing has been credited.,Refund
+I no longer want the item and need to cancel it.,Cancellation
+The refund amount is incorrect.,Refund
+The application closes by itself.,Technical
+I have been waiting for my package.,Delivery
+My refund was approved but I haven't received it.,Refund
+I accidentally ordered the wrong product.,Cancellation
+My wallet payment failed.,Payment
+The order history will not load.,Technical
+My account login keeps failing.,Account
+My UPI payment was unsuccessful.,Payment
+I want to cancel an item from my order.,Cancellation
+Is cancellation still possible?,Cancellation
+How can I cancel my purchase?,Cancellation
+I want to cancel an order I just placed.,Cancellation
+My card was charged twice for one purchase.,Payment
+My order information is wrong.,Order
+When should I expect my package?,Delivery
+I am unable to use the search bar.,Technical
+My product arrived damaged.,Order
+Why am I still being charged?,Subscription
+How can I check my subscription status?,Subscription
+I accidentally ordered two items.,Order
+My order is stuck in transit.,Delivery
+My UPI payment is stuck.,Payment
+I did not receive the account verification email.,Account
+The page keeps displaying an error.,Technical
+The refunded amount is incorrect.,Refund
+My refund has not been credited yet.,Refund
+I got charged but did not receive an order number.,Payment
+My subscription payment failed.,Subscription
+Can I change my subscription plan?,Subscription
+My shipment is stuck at a sorting facility.,Delivery
+The courier has not delivered my package.,Delivery
+I see a duplicate charge on my bank statement.,Payment
+I need help with a pending transaction.,Payment
+I placed the order by mistake.,Cancellation
+Please cancel the order before dispatch.,Cancellation
+My package has not reached my address.,Delivery
+I want to change my order details.,Order
+My order was duplicated.,Order
+I cannot open the order page.,Technical
+I cannot load my orders.,Technical
+My account is not accessible.,Account
+Can you stop the shipment?,Cancellation
+My account details need to be updated.,Account
+My subscription status is wrong.,Subscription
+Why is my order information wrong?,Order
+The tracking information is not updating.,Delivery
+I cannot open the payment section.,Technical
+The checkout page is broken.,Technical
+Can my order still be cancelled?,Cancellation
+Please process my cancellation request.,Cancellation
+I received the wrong product.,Order
+Can my order be cancelled after confirmation?,Cancellation
+How can I update my phone number?,Account
+The payment authorization failed.,Payment
+My password reset email is missing.,Account
+The website shows a blank screen.,Technical
+How long does a refund take?,Refund
+My subscription upgrade did not work.,Subscription
+How do I update my personal details?,Account
+I entered my card details correctly but payment was rejected.,Payment
+My refund transaction failed.,Refund
+My subscription was cancelled unexpectedly.,Subscription
+Can you cancel the shipment for me?,Cancellation
+I cannot verify my phone number.,Account
+One item is missing from my package.,Order
+The application does not respond to taps.,Technical
+I need help with my order details.,Order
+I want to remove my subscription.,Subscription
+How long do I have to cancel an order?,Cancellation
+My parcel has not arrived after the promised date.,Delivery
+Can I change the delivery address?,Order
+The payment gateway keeps timing out.,Payment
+I want to update my address in my profile.,Account
+I forgot the email linked to my account.,Account
+The refund status has not changed.,Refund
+Can you initiate a refund for my cancelled order?,Refund
+The tracking number is not showing any updates.,Delivery
+The refund was sent to the wrong payment method.,Refund
+My screen goes blank inside the app.,Technical
+How do I renew my subscription?,Subscription
+My subscription renewed automatically.,Subscription
+My package has not arrived yet.,Delivery
+My subscription benefits disappeared.,Subscription
+I want to change the quantity.,Order
+I need assistance with account recovery.,Account
+I am not receiving the login OTP.,Account
+My payment went through but the app shows unpaid.,Payment
+I cannot make a successful card transaction.,Payment
+The parcel arrived later than expected.,Delivery
+I want to cancel my purchase.,Cancellation
+My refund is missing after returning the product.,Refund
+Why is my order not showing in my account?,Order
+Can I change an item in my order?,Order
+When will I receive my refund?,Refund
+Please help me stop this order.,Cancellation
+My transaction failed after entering the OTP.,Payment
+My bank account does not show the refund.,Refund
+My order has been out for delivery for hours.,Delivery
+I need to cancel a recently placed order.,Cancellation
+The website is timing out.,Technical
+The UPI transaction failed during checkout.,Payment
+The OTP for login never arrived.,Account
+My order confirmation is missing.,Order
+My refund is delayed.,Refund
+Please check my pending refund.,Refund
+The checkout payment is not working.,Payment
+I need an update about my refund.,Refund
+Why did my subscription renew?,Subscription
+I was charged for a cancelled subscription.,Subscription
+The refund was initiated but is not visible.,Refund
+My account verification code is not arriving.,Account
+My order has been delayed again.,Delivery
+I want to cancel automatic renewal.,Subscription
+I need help with a missing refund.,Refund
+The subscription page is not loading.,Subscription
+I want to stop automatic renewal.,Subscription
+The courier marked my order delivered incorrectly.,Delivery
+I cannot complete payment using my debit card.,Payment
+My account verification keeps failing.,Account
+My order contains a missing item.,Order
+The website gives me a server error.,Technical
+My profile information is incorrect.,Account
+The settings page does not work.,Technical
+How can I manage my subscription?,Subscription
+I was charged twice for my subscription.,Subscription
+I need to correct my delivery address.,Order
+Why is my subscription inactive?,Subscription
+I forgot my password.,Account
+I need to cancel my purchase today.,Cancellation
+I received an error while paying.,Payment
+The quantity in my order is incorrect.,Order
+How do I cancel an order?,Cancellation
+My username is not recognized.,Account
+I want to change my email address.,Account
+The payment confirmation has not arrived.,Payment
+The amount was deducted twice from my account.,Payment
+Why is my payment still pending?,Payment
+I am seeing an unexpected error.,Technical
+The product I received is damaged.,Order
+Why does my payment keep failing?,Payment
+I no longer need my order.,Cancellation
+I cannot activate my premium plan.,Subscription
+I want to modify my order.,Order
+When will my order be delivered?,Delivery
+I need help with a subscription charge.,Subscription
+Why has my delivery been postponed?,Delivery
+The login page keeps rejecting my password.,Account
+How do I change my registered mobile number?,Account
+How do I regain access to my account?,Account
+I want to cancel my premium plan.,Subscription
+The payment gateway is not responding.,Payment
+Can you tell me the expected delivery date?,Delivery
+The order total looks incorrect.,Order
